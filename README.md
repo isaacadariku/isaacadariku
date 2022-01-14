@@ -9,7 +9,7 @@
 
 **Isaac has spent years with interest in computer intelligence and global activities in the IT world. He is a self trained programmer, learning through language documentations, and building solutions, before advancing his skills by taking various courses and examinations to earn the certifications.**
 
-- 🔭 **_He is currently working on [SPC.](https://github.com/isaacadariku/snp_repository)_**
+- 🔭 **_He is currently Studying about Data Struture and Algorithms_**
 - 🌱 **_He is learning Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>._**
 - 🧊 **_He is exploring more about the multiple blockchain platforms and their smart contracts capabilities._**
 - 👯 **_He is always 💻 with ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)._**
