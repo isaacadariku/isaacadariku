@@ -7,11 +7,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=He+is+a+Platform%20developer%20using%20Flutter;Self+taught%20Learning%20through%20Documentation;Always%20learning%20new%20things&center=true&width=500&height=45"></a>
 </p>
 
-**Isaac has spent years with interest in computer intelligence and global activities in the IT world. He is a self trained programmer, learning through language documentations, and building solutions, before advancing his skills by taking various courses and examinations to earn the certifications.**
+**Isaac has spent years with interest in computer intelligence and global activities in the IT world. He is a Lead Software Engineer, Mentor and Community Organizer.**
 
-- 🔭 **_He is currently Studying about Data Struture and Algorithms_**
-- 🌱 **_He is learning Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>._**
-- 🧊 **_He is exploring more about the multiple blockchain platforms and their smart contracts capabilities._**
+- 🔭 **_He is currently Mastering Computer Science_**
+- 🌱 **_He is currently building and engineering (Reflection.app)[www.reflection.app]_**
+- 👨🏽‍🏫 **_Mentoring Flutter and Dart Interns at the (HNG Internship)[https://twitter.com/hnginternship]_**
 - 👯 **_He is always 💻 with ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)._**
 - 💬 **_Ask him about anything [here](https://github.com/isaacadariku/isaacadariku/issues)_**
 
@@ -54,7 +54,6 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
-![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=Kotlin&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)&nbsp;\
