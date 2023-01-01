@@ -10,8 +10,8 @@
 **Isaac has spent years with interest in computer intelligence and global activities in the IT world. He is a Lead Software Engineer, Mentor and Community Organizer.**
 
 - 🔭 **_He is currently Mastering Computer Science_**
-- 🌱 **_He is currently building and engineering (Reflection.app)[www.reflection.app]_**
-- 👨🏽‍🏫 **_Mentoring Flutter and Dart Interns at the (HNG Internship)[https://twitter.com/hnginternship]_**
+- 🌱 **_He is currently building and engineering [Reflection.app](www.reflection.app)_**
+- 👨🏽‍🏫 **_Mentoring Flutter and Dart Interns at the [HNG Internship](https://twitter.com/hnginternship)_**
 - 👯 **_He is always 💻 with ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)._**
 - 💬 **_Ask him about anything [here](https://github.com/isaacadariku/isaacadariku/issues)_**
 
