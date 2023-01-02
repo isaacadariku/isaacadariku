@@ -144,7 +144,7 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 ### Are you happy with what you see ? Let's connect <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">, I can't wait to say Hi back 🙋‍♂️
 
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=isaacadariku"><img alt="Twitter" title="Connec via twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/intent/follow?screen_name=AdarikuIsaac"><img alt="Twitter" title="Connec via twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/isaacadariku"><img alt="Linkedin" title="Connect with linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:isaacadariku05@gmail.com"><img alt="Gmail" title="Email Isaac Adariku" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/isaacadariku"><img alt="Github" title="Follow Isaac Adariku" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
