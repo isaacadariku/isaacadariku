@@ -15,14 +15,6 @@
 - 👯 **_He is always 💻 with ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)._**
 - 💬 **_Ask him about anything [here](https://github.com/isaacadariku/isaacadariku/issues)_**
 
-📈 Checkout his GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isaacadariku&show_icons=true&theme=gotham" alt="isaacadariku" />
-
-🏆 His GitHub Trophy
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaacadariku&margin-w=5&theme=onedark" alt="isaacadariku" /></a> </p>
-
 _**NOTE:** Top languages does not indicate his skill level or something like that, it's a github metric of which languages he have the most code on github, it's a new feature of github-readme-stats._
 
 <p align="center"> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacadariku&hide=TeX&layout=compact&theme=gotham"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacadariku&hide=TeX&layout=compact&theme=gotham" alt="isaacadariku" /></a> </p>
@@ -151,12 +143,6 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
 <a href="https://signal.org/download/"><img alt="Signal" title="Chat with Isaac Adariku on Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"></a>
 
 </p>
-
-<!-- GIthub graph by - https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Isaac Adariku Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=isaacadariku&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-#
 
 <div align="center">
 
