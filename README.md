@@ -140,9 +140,9 @@ _**NOTE:** Top languages does not indicate his skill level or something like tha
   <a href="https://www.linkedin.com/in/isaacadariku"><img alt="Linkedin" title="Connect with linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:isaacadariku05@gmail.com"><img alt="Gmail" title="Email Isaac Adariku" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/isaacadariku"><img alt="Github" title="Follow Isaac Adariku" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://signal.org/download/"><img alt="Signal" title="Chat with Isaac Adariku on Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"></a>
-
 </p>
+
+#
 
 <div align="center">
 
