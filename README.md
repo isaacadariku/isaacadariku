@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=He+is+a+Platform%20developer%20using%20Flutter;Self+taught%20Learning%20through%20Documentation;Always%20learning%20new%20things&center=true&width=500&height=45"></a>
 </p>
 
-**Isaac has spent years with interest in computer intelligence and global activities in the IT world. He is a Lead Software Engineer, Mentor and Community Organizer.**
+**Isaac has spent years with interest in computer intelligence and global activities in the IT world. He is a Lead Software Engineer, Google Developer Expert for Flutter & Dart, Mentor and Community Organizer.**
 
 - 🔭 **_He is currently Mastering Computer Science_**
 - 🌱 **_He is currently building and engineering [Reflection.app](www.reflection.app)_**
